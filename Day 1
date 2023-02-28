@@ -1,0 +1,21 @@
+//How to return function
+
+function timesFive(num) {
+  return num * 5
+}
+const answer = timesFive(5)
+
+
+//Learnt how to write a boolean conditional if statement
+
+function trueOrFalse(wasThatTrue) {
+  // Only change code below this line
+  if(wasThatTrue) {
+      return "Yes, that was true"
+  }
+   return "No, that was false"
+  // Only change code above this line
+
+}
+console.log(trueOrFalse(true));
+console.log(trueOrFalse(false));
