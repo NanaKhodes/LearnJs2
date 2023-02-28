@@ -1,1 +1,1 @@
-LearnJs1
+Learn Javascript Day 2
